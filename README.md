@@ -1,2 +1,0 @@
-# googleMapResearch
-Created with CodeSandbox
